@@ -95,7 +95,7 @@ var l_musicPlaylist = [
 	{youtube: "i7UyXbb1m7M", name: "Battlefront 2 Trailer Theme"},
 	{youtube: "o--bLEobBFY", name: "Battle Of Heroes"},
 	{youtube: "duCjJepYaWM", name: "Star Wars Music"},
-	{youtube: "iiNyQD5Yq3E", name: "Vode An"},
+	{youtube: "LcKvT015k_k", name: "Sith Theme"},
 	{youtube: "BeEg9PJB0yM", name: "Bounty Hunter Theme"},
 	{youtube: "moag4Xf498c", name: "Grievous Theme"},
 	{youtube: "t3tFkcW7ySk", name: "Alderaan Ambience"},
