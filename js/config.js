@@ -115,12 +115,12 @@ var l_messagesEnabled = true;
 var l_messages = [
 	"Enjoy the server",
 	"Thanks for joining us!",
-	"Clone Transport Pilot: Welcome to paradise, rock jumpers!",
-	"Captain Rex: In my book, experience outranks everything.",
-	"Sinker: We’re just clones, sir. We’re meant to be expendable.",
-	"Fives: Look around. We’re one and the same. Same heart, same blood.",
-	"Captain Rex: We’re not programmed. You have to learn to make your own decisions.",
-	"Plo Koon: When you are looking for trouble, don't be surprised if it finds you.",
+	"Bounty Hunter: At first if you don't succeed... Reload.",
+	"Khem Val: I have an excellent Sabacc face. That was a joke, I hate Sabacc.",
+	"Smuggler: I wasn't planning to live forever anyway. I'm in.",
+	"Bounty Hunter: I'll find you. I always do.",
+	"Sith Inquisitor: Murder and Mayhem awaits.",
+	"Krikit the Jawa: You go! Beat up Sand People, get Jawas back! Then, everyone happy, except Sand People, but that ok!",
 ];
 
 /*Random message order?*/
